@@ -1,1 +1,1 @@
-alert("Hi.. Welcome to Simple Paint App.");
+alert("Hi.. Welcome to Simple Paint App");
